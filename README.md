@@ -11,7 +11,7 @@ A simple Java console-based notes manager that supports:
 
 ## 🛠 Tools Used
 - Java (JDK)
-- VS Code / IntelliJ
+- VS Code 
 - Terminal
 
 ## 🧠 Concepts Used
@@ -28,7 +28,7 @@ A simple Java console-based notes manager that supports:
 ## 📁 Files Included
 - NotesApp.java
 - notes.txt (created after writing notes)
-- README.txt
+- README.md
 - Interview_Questions.txt
 
 ## 📝 Outcome
